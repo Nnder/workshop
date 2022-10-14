@@ -1,0 +1,9 @@
+.menu {
+    position: fixed;
+    bottom: 10px;
+}
+
+.wrapper {
+    display: inline-block;
+    background: white;
+}

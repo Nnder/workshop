@@ -1,0 +1,16 @@
+.datePickerWrapper {
+    padding-bottom: 5px;
+    width: 100%;
+    display: block;
+    color: black;
+    text-align: left;
+}
+
+.selectWrapper {
+    padding-bottom: 5px;
+    width: 100%;
+    display: block;
+    color: black;
+    text-align: left;
+}
+/*style={{ paddingBottom:'5px',width:'100%',display:'block'}}*/
